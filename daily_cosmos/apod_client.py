@@ -88,7 +88,7 @@ def parse_apod_response(data: object) -> ApodEntry:
     return ApodEntry(
         date=str(data["date"]),
         title=html_to_text(data["title"]) or "Untitled",
-        explanation=html_to_text(data.get("explanation")) or "",
+        explanation=re.sub(r"^Explanation:\s*", "", html_to_text(data.get("explanation")) or ""),
         media_type=media_type,
         page_url=html_to_text(data.get("permalink") or data.get("url")) or "",
         image_url=image_url,
