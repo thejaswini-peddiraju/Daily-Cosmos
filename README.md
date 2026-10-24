@@ -32,6 +32,11 @@ Now imagine this. You open your laptop on Monday morning, and your desktop is a 
 A small daily reminder that there is a lot of universe out there, and your Tuesday meeting is a tiny part of it. 🔭
 
 ---
+<div align="center">
+  <img src="https://media.giphy.com/media/ab0nvsRq4Fyak/giphy.gif" alt="A cat driving a small van through space" width="300" />
+  <br/>
+  <sub>Your commute to the cosmos. GIF via <a href="https://giphy.com/gifs/ab0nvsRq4Fyak">GIPHY</a>.</sub>
+</div>
 
 ## ✨ Features
 
@@ -253,3 +258,8 @@ Always add the picture title and credit under each image. -->
 
 
 </div>
+<img src="https://media.giphy.com/media/AQG7LmOZdceDZnj4dX/giphy.gif" alt="A dancing astronaut cat" width="200" />
+
+<sub>GIF by <a href="https://giphy.com/channel/Montyland_/">Montyland</a> via <a href="https://giphy.com/gifs/dancing-cat-dance-montyland-AQG7LmOZdceDZnj4dX">GIPHY</a>.</sub>
+
+*Look up. 🌠*
