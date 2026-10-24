@@ -250,14 +250,6 @@ Always add the picture title and credit under each image. -->
 - The screenshot above shows *Rosetta's Selfie*, image credit: ESA/Rosetta/Philae/CIVA.
 - This project is an independent hobby project and is **not affiliated with or endorsed by NASA or ESA**. Daily Cosmos does not redistribute images. Everything it downloads stays on your own computer.
 
-## 📄 License
 
-_Add your license here (for example MIT) and add a matching `LICENSE` file._
-
-<div align="center">
-
-<br/>
-
-*Look up. 🌠*
 
 </div>
