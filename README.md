@@ -255,11 +255,11 @@ Always add the picture title and credit under each image. -->
 - The screenshot above shows *Rosetta's Selfie*, image credit: ESA/Rosetta/Philae/CIVA.
 - This project is an independent hobby project and is **not affiliated with or endorsed by NASA or ESA**. Daily Cosmos does not redistribute images. Everything it downloads stays on your own computer.
 
-
-
-</div>
 <img src="https://media.giphy.com/media/AQG7LmOZdceDZnj4dX/giphy.gif" alt="A dancing astronaut cat" width="200" />
 
 <sub>GIF by <a href="https://giphy.com/channel/Montyland_/">Montyland</a> via <a href="https://giphy.com/gifs/dancing-cat-dance-montyland-AQG7LmOZdceDZnj4dX">GIPHY</a>.</sub>
 
 *Look up. 🌠*
+
+</div>
+
