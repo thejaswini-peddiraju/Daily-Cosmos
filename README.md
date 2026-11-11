@@ -243,10 +243,16 @@ Get-Content logs\daily_cosmos.log -Tail 20
 
 ## 🖼️ Gallery
 
-<!-- Add more screenshots here, for example:
-<img src="docs/another-screenshot.png" width="400" />
-Always add the picture title and credit under each image. -->
+<div align="center">
 
+<img src="docs/gallery-1.png" width="400" />
+<img src="docs/gallery-2.png" width="400" />
+<img src="docs/gallery-3.png" width="400" />
+<img src="docs/gallery-4.png" width="400" />
+<img src="docs/gallery-5.png" width="400" />
+<img src="docs/gallery-6.png" width="400" />
+
+</div>
 ---
 
 ## 🙏 Credits
